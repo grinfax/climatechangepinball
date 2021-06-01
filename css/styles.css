@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+img {
+    max-width: 100%;
+
+}
+
+.store {
+    margin-top: 40px; 
+    border-top: 2px solid #fff; 
+    padding-top: 20px;
+    margin-bottom: 40px; 
+    border-bottom: 2px solid #fff; 
+    padding-bottom: 20px;
+}
+
+a{
+    color: peachpuff;
+}
